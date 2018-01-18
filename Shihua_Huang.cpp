@@ -1,4 +1,3 @@
-// Written by Prof. Sreenivas for IE523: Financial Computing
 
 #include <iostream>
 #include <cmath>
